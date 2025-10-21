@@ -1,5 +1,5 @@
-title: 我的静态博客
-theme: minima
-markdown: kramdown
-kramdown:
-  math_engine: mathjax
+title: 我的个人博客
+description: 一个简单的博客，支持 Markdown 公式和图片
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed

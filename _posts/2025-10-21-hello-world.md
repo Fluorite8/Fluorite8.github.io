@@ -1,20 +1,16 @@
 ---
 layout: post
-title: "第一篇笔记 — 含图片与公式"
+title: 我的第一篇博客
 date: 2025-10-21
-tags: [示例, 数学, 图片]
 ---
 
-这是一个含图片和公式的例子。
+# 我的第一篇博客
 
-下面插入图片（假设文件在 `assets/img/flourite.jpg`）：
+这是一个简单的博客文章示例。
 
-![照片测试](/assets/img/flourite.jpg)
+## 数学公式
+行内公式：$a^2 + b^2 = c^2$
 
-下面是行内公式示例：$E=mc^2$。
-
-下面是块级公式示例：
-
+块公式：
 $$
-\int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2}
-$$
+\sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{\pi^2}{6}
