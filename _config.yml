@@ -1,0 +1,5 @@
+title: 我的静态博客
+theme: minima
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
